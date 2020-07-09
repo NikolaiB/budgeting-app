@@ -51,8 +51,8 @@ Inflow vs Outflow chart and Spending by Category should be also changed.
 -
 The Smoke scope has to include the most important base functionality and be applied for:
 
-- Adding a new item.
-- Updating an item.
+- Add a new item.
+- Update an item.
 - Cancel an update.
 - Delete the item (for positive Working balance)
 - Delete the item (for negative Working balance)
