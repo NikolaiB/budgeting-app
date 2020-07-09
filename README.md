@@ -15,7 +15,7 @@ Installation Process:
 
 There are a few ways to run automated tests:
 
-**To run all all automated tests:** 
+**To run all automated tests:** 
 
 - robot -d Results Tests/Budget.robot 
 - or robot -d Results -i smoke Tests/ 
