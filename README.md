@@ -26,7 +26,8 @@ There are a few ways to run automated tests:
 **To run only negative tests:**
 - robot -d Results -i negative Tests/ 
 
-##Test Plan
+
+## Test Plan
 
 This Test Plan describes the functional and automated test cases that are conducted on the Budget app.
 
