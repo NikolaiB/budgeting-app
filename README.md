@@ -12,7 +12,6 @@ Installation Process:
 
 **Run tests:**
 -
-
 There are a few ways to run automated tests:
 
 **To run all automated tests:** 
